@@ -56,7 +56,7 @@ function calculateNotes(bill, cash){
     let returnAmt = cash-bill;
     
     if(returnAmt<1){
-      showError("Even-steven! No amount should be returned");
+      showError("Kuchh nahi milega !!");
       return;
     }
     balanceDiv.style.display = "block";
