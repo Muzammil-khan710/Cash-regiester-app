@@ -1,6 +1,6 @@
 
 :root{
-    --primary-color: #58b8b362;
+    --primary-color: #53b65b65;
     --secondary-color: #2f9dc957;
 }
 
@@ -48,7 +48,7 @@ input {
 button{
     display: block;
     border-radius: 9px;
-    
+    border: 2px solid ;
     padding: 0.5rem 1rem;
     font-size: 1rem;
     font-weight: bold;
